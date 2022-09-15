@@ -1,0 +1,24 @@
+Initial: 
+Player's Hand Value: 13
+Dealer's Hand Value: 13
+Final: 
+Player's Hand Value: 16
+Dealer's Hand Value: 24
+Result: Player wins
+
+Initial: 
+Player's Hand Value: 15
+Dealer's Hand Value: 12
+Final: 
+Player's Hand Value: 19
+Dealer's Hand Value: 21
+Result: Dealer wins
+
+Initial: 
+Player's Hand Value: 7
+Dealer's Hand Value: 13
+Final: 
+Player's Hand Value: 19
+Dealer's Hand Value: 20
+Result: Dealer wins
+
